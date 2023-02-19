@@ -19,13 +19,3 @@ Skills: HTML / CSS /Bootstrap/ Tailwind / JS/ DOM/ API/ REACT/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/trtonmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/trtonmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tonmoy-roy-71b654258//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009515347285)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/trtonmoy)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/trtonmoy)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/trtonmoy)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/trtonmoy)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/trtonmoy)  
